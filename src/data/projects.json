@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Digitise Buisness",
+    "imageSrc": "projects/project.png",
+    "description": "This is a Project for the Soloprenures who wants to start thier buisnesses can host here",
+    "skills": ["React", "Express", "Node", "MongoDB"],
+    "source": "https://github.com/SharanuSB/Digitise_Business"
+  },
+  {
+    "title": "Expense Tracker",
+    "imageSrc": "projects/project.png",
+    "description": "This Project is to track the daily and monthly expenses of yourself and your businesses.",
+    "skills": ["React", "Express", "Node", "ChartJs"],
+    "source": "https://github.com/SharanuSB/Expense_App"
+  },
+  {
+    "title": "Connect Free",
+    "imageSrc": "projects/project.png",
+    "description": "This is a Chat Application with some cool animations",
+    "skills": ["React Native", "Express", "Reanimated 3"],
+    "source": "https://github.com/SharanuSB/Animations"
+  }
+]

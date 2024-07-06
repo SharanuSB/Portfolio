@@ -1,0 +1,17 @@
+[
+  {
+    "role": "Software Developer",
+    "organisation": "Incuse Hrms",
+    "startDate": "Aug, 2023",
+    "endDate": "Present",
+    "experiences": ["Worked on Logistics Web and Mobile App", "React Native for Hybrid Mobile Application, Implemented Qr scanner and Google Map for Directions", "Worked on the Human resource managment mobile app"]
+  },
+  {
+    "role": "Mern Stack Intern",
+    "organisation": "DCT Academy",
+    "startDate": "Dec, 2022",
+    "endDate": "July, 2023",
+    "experiences": ["Built end to end full stack application for soloprenures", "Worked on the Expense management web application"],
+    "imageSrc": "history/microsoft.png"
+  }
+]
