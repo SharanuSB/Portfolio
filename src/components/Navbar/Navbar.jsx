@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 
 import styles from "./Navbar.module.css";
-import { getImageUrl } from "../../utils";
+import { getImageUrl, RESUME } from "../../utils";
 
 export const Navbar = () => {
   const [menuOpen, setMenuOpen] = useState(false);
@@ -38,7 +38,7 @@ export const Navbar = () => {
           <li>
             <a href="#contact">Contact</a>
           </li>
-          <a href="/assets/MyResume/SharanuSB_Resume.pdf" download>
+          <a href="/SharanuSB_Resume.pdf" download>
             Resume
           </a>{" "}
         </ul>
